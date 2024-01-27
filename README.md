@@ -8,4 +8,4 @@ Dataset link is easy to get from [EBLNet](https://www.researchgate.net/publicati
 ## Evaluation
 Please utilize the provided script files for the evaluation process.
 PMD benchmark evaluation follow [LSA](https://github.com/guanhuankang/Learning-Semantic-Associations-for-Mirror-Detection). 
-You can download our checkpoint from [checkpoint](https://github.com/guanhuankang/Learning-Semantic-Associations-for-Mirror-Detection).
+You can download our checkpoint from [checkpoint](https://drive.google.com/file/d/1N4N6O3KVjMLOskN9jF3b9EsOvwRHY9yQ/view?usp=sharing).
